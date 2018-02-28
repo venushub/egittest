@@ -14,6 +14,7 @@ public class FirstClass {
 		int h = 80;
 		int i = 90;
 		int j = 100;
+		int k = 110;
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(c);
