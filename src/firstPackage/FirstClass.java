@@ -10,6 +10,7 @@ public class FirstClass {
 		int d = 40;
 		int e = 50;
 		int f = 60;
+		int g = 70;
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(c);
