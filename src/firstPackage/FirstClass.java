@@ -12,6 +12,7 @@ public class FirstClass {
 		int f = 60;
 		int g = 70;
 		int h = 80;
+		int i = 90;
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(c);
